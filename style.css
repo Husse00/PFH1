@@ -87,7 +87,7 @@ display: none;
 }
 
 .text-box h3 {
-  font-size: 70px;
+  font-size: 30px;
   line-height: 160px;
   font-weight: 700;
   position: relative;
@@ -95,7 +95,7 @@ display: none;
   right: 1em;
   color: transparent;
   -webkit-text-stroke: 1px #fff;
-  /* background: url("./images/back.png"); */
+  background: url("./images/back.png");
   -webkit-background-clip: text;
   background-clip: text;
   background-position: 0 0;
