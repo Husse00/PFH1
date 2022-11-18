@@ -5,7 +5,9 @@
   font-weight: 400;
   background: rgb(0, 0, 0);
 }
-
+.stripe{
+display: none;
+}
 .background2 {
   display: block;
   width: 100%;
@@ -93,7 +95,7 @@
   right: 1em;
   color: transparent;
   -webkit-text-stroke: 1px #fff;
-  background: url("./images/back.png");
+  /* background: url("./images/back.png"); */
   -webkit-background-clip: text;
   background-clip: text;
   background-position: 0 0;
